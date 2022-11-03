@@ -9,16 +9,20 @@
     spaceBetween: 20,
 
 breakpoints:{
-  640: {
+  500: {
     slidesPerView: 1,
   
   },
-  768: {
+  640: {
     slidesPerView: 2,
+  
+  },
+  768: {
+    slidesPerView: 3,
 
   },
   1024: {
-    slidesPerView: 3,
+    slidesPerView: 5,
    
   }
 },
